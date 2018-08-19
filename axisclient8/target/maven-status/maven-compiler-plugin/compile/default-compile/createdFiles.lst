@@ -1,0 +1,11 @@
+com\tecsup\ws\client\proxy\EmployeeResourceServiceStub$GetEmployeeResponse.class
+com\tecsup\ws\client\proxy\EmployeeResourceServiceStub$ExtensionMapper.class
+com\tecsup\ws\client\ClientSOAP.class
+com\tecsup\ws\client\proxy\EmployeeResourceServiceStub$GetEmployeeResponse$Factory.class
+com\tecsup\ws\client\proxy\EmployeeResourceServiceStub$EmployeeXSD$Factory.class
+com\tecsup\ws\client\proxy\EmployeeResourceServiceStub$GetEmployeeRequest$Factory.class
+com\tecsup\ws\client\proxy\EmployeeResourceServiceStub$1.class
+com\tecsup\ws\client\proxy\EmployeeResourceServiceCallbackHandler.class
+com\tecsup\ws\client\proxy\EmployeeResourceServiceStub$EmployeeXSD.class
+com\tecsup\ws\client\proxy\EmployeeResourceServiceStub.class
+com\tecsup\ws\client\proxy\EmployeeResourceServiceStub$GetEmployeeRequest.class
